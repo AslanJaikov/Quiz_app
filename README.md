@@ -1,5 +1,7 @@
 # Quizzler ❓
 
+![Media_230323_192559](https://user-images.githubusercontent.com/128228440/227218977-bd8a4e7e-da7c-478f-bd34-09e31b4aa9a8.gif)
+
 ## Goal
 
 This tutorial will be reviewing Stateful and Stateless Widgets as well as explanations about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
